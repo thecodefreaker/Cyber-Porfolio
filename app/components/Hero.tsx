@@ -142,7 +142,7 @@ const Hero: React.FC<HeroProps> = ({ projects }) => {
             className="relative w-32 sm:w-40 md:w-48 h-32 sm:h-40 md:h-48 rounded-full overflow-hidden bg-gradient-to-br from-blue-500 via-purple-500 to-green-500 p-1"
             whileHover={{ scale: 1.05 }}
           >
-            <Image src="/backgrounds/hardik.jpg" alt="Hardik Srivastava" className="w-full h-full object-cover" />
+            <Image src="/backgrounds/hardik.jpg" alt="Hardik Srivastava" className=" object-cover h-full w-full " width={192} height={192} />
             <motion.div
               className="absolute inset-0 border-2 border-green-400 opacity-50"
               animate={{ rotate: 360 }}
