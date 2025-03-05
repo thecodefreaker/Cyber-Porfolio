@@ -1,7 +1,7 @@
 # Cybersecurity Portfolio Website
 
-![Project Banner](https://via.placeholder.com/1200x400.png?text=Cybersecurity+Portfolio+Website)
-
+# ***[Project Live](https://thecodefreaker.netlify.app)***
+![Project Banner](https://github.com/thecodefreaker/Cyber-Porfolio/blob/main/public/Screenshot%20From%202025-03-06%2001-16-08.png)
 ## Project Overview
 
 This is a modern, minimalist portfolio website designed for a cybersecurity enthusiast. It serves as a digital showcase for skills, projects, and contact information, with a distinct cybersecurity-inspired aesthetic. The website features a dark theme with neon green accents, subtle animations, and graphical elements like circuit patterns and cybersecurity icons. 
@@ -9,6 +9,7 @@ This is a modern, minimalist portfolio website designed for a cybersecurity enth
 Built with **Next.js** for the front-end, **Sanity.io** for content management, and a **Node.js** back-end submissions, this project blends cutting-edge web development with a passion for cybersecurity. It’s fully responsive, ensuring accessibility across all devices.
 
 ---
+  ![A](https://github.com/thecodefreaker/Cyber-Porfolio/blob/main/public/Screenshot%20From%202025-03-06%2001-21-47.png)
 
 ## Features
 
@@ -39,7 +40,7 @@ Built with **Next.js** for the front-end, **Sanity.io** for content management, 
   - Heroku or Vercel (back-end)
 
 ---
-
+![B](https://github.com/thecodefreaker/Cyber-Porfolio/blob/main/public/Screenshot%20From%202025-03-06%2001-22-37.png)
 ## Installation
 
 To set up the project locally, follow these steps:
